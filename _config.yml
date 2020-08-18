@@ -30,7 +30,7 @@ twitter_username: subhashgo
 github_username:  Zo-Bro-23
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
