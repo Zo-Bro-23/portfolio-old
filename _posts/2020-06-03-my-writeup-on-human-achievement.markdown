@@ -23,3 +23,21 @@ Spend some time researching examples of fictional maps in works of literature (f
 ### Answer:
 
 ![]({{site.baseurl}}/assets/map-of-zsat-complex.jpg)
+
+## Part two:
+
+Produce a written reflection of the process of designing and creating the map. Think about the following questions:
+
+- What ideas did you have and why did you decide on this design?|
+
+- What went well?
+
+- What didn't go as planned?
+
+- What would you do differently next time?
+
+  ### Answer:
+
+  ![]({{site.baseurl}}/assets/map-of-zsat-complex-reflection.jpg)
+
+  
