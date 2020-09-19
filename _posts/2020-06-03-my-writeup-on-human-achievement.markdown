@@ -8,7 +8,7 @@ categories:
 
 ## Part one:
 
-For this assessment task you will need to ***demonstrate\*** your understanding of mapping by creating your own fictional map. You can be creative with the design of your map but you need to use a range of conventions within your map to ***demonstrate\*** your understanding.
+For this assessment task you will need to ***demonstrate*** your understanding of mapping by creating your own fictional map. You can be creative with the design of your map but you need to use a range of conventions within your map to ***demonstrate*** your understanding.
 Your map needs to include the following features:
 
 - a title
