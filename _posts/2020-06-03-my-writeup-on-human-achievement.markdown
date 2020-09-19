@@ -28,7 +28,7 @@ Spend some time researching examples of fictional maps in works of literature (f
 
 Produce a written reflection of the process of designing and creating the map. Think about the following questions:
 
-- What ideas did you have and why did you decide on this design?|
+- What ideas did you have and why did you decide on this design?
 
 - What went well?
 
@@ -36,7 +36,7 @@ Produce a written reflection of the process of designing and creating the map. T
 
 - What would you do differently next time?
 
-  ### Answer:
+### Answer:
 
   ![]({{site.baseurl}}/assets/map-of-zsat-complex-reflection.jpg)
 
