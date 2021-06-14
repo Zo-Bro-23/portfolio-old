@@ -56,3 +56,4 @@ plugins:
 header_pages: 
     - about.markdown
     - view-by-year.markdown
+    - comments.markdown
