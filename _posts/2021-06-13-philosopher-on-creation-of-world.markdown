@@ -2,7 +2,7 @@
 layout: post
 title:  "A Philosopher's perspective on creation of the world"
 date:   2021-06-13 12:01:00 +05:30
-categories:
+categories: Language and Literature
 ---
 
 The world was created for a purpose and everything in it plays a role in sustaining it. Be it a star like our sun that gives light and hope to so many, or a star far away from the Earth, that helps a bird find its way home. Nobody is big or small, nobody bigger or smaller. Everybody is equally important.
