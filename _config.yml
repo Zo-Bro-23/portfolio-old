@@ -55,5 +55,3 @@ plugins:
 #   - vendor/ruby/
 header_pages: 
     - about.markdown
-    - view-by-year.markdown
-    - comments.markdown
