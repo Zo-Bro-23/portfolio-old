@@ -1,4 +1,4 @@
 # portfolio
 My portfolio website
 
-Live here: [https://web.zohan.tech/portfolio](https://web.zohan.tech/portfolio)
+NOTE: THIS IS OUTDATED! (see [here](https://github.com/Zo-Bro-23/portfolio) for the new portfolio)
